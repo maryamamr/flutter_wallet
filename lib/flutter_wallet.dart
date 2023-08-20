@@ -31,7 +31,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 import 'dart:async';
 import 'package:flutter/services.dart';
-import 'package:meta/meta.dart';
 
 class FlutterWallet {
   static const MethodChannel _channel =
