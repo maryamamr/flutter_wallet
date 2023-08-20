@@ -5,12 +5,12 @@ author: Vico Aguado <contacto@vico-aguado.com>
 homepage: https://github.com/vico-aguado/flutter_wallet
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=3.0.6 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.1.6
+  meta: 
 
 dev_dependencies:
   flutter_test:
